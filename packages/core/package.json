@@ -29,5 +29,8 @@
   "dependencies": {
     "@imooc-cli/utils": "^1.1.3"
   },
-  "gitHead": "9a29d50c67cb576ec3d16ffd1f067d3079c63c96"
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "4ddcf66b318b3db4f2583ff8048c886da88fbef2"
 }
