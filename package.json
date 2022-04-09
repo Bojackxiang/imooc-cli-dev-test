@@ -1,0 +1,15 @@
+{
+  "name": "imooc-cli-dev-alex-sample",
+  "version": "1.0.0",
+  "description": "一个 关于 lerna 的学习的 cli",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lerna": "^4.0.0"
+  }
+}
